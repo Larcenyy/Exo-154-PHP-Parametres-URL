@@ -9,8 +9,10 @@
  * 4. Faites une boucle pour afficher autant de fois Hello World 10 fois en utilisant 'iteration' dans la boucle.
  */
 
-// TODO Votre code ici.
 
+// TODO Votre code ici.
+echo "<a href='exo1.php?iteration=10'>lien</a> <br>";
+echo "<a href='exo2.php?iteration=10'>EXERCISE2</a>";
 
 /**
  * Exo 2
@@ -20,6 +22,7 @@
  * Pour chaque lien, le paramètre iteration prendra la valeur actuelle de votre variable de boucle ( $i par exemple ).
  */
 
+?>
 
 
 
